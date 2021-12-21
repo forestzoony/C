@@ -1,0 +1,5 @@
+﻿  6주차1번.c
+C:\Users\wldbs\source\repos\6주차1번\6주차1번\6주차1번.c(61,17): warning C4013: 'creat'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\wldbs\source\repos\6주차1번\6주차1번\6주차1번.c(61,19): warning C4047: '=': 'HeapType *'의 간접 참조 수준이 'int'과(와) 다릅니다.
+C:\Users\wldbs\source\repos\6주차1번\6주차1번\6주차1번.c(59,9): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+  6주차1번.vcxproj -> C:\Users\wldbs\source\repos\6주차1번\Debug\6주차1번.exe
