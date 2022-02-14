@@ -1,0 +1,4 @@
+﻿  자구실습 2번.c
+C:\Users\wldbs\source\repos\자구실습 2번\자구실습 2번\자구실습 2번.c(30,13): warning C4047: '=': 'ListNode *'의 간접 참조 수준이 'int'과(와) 다릅니다.
+C:\Users\wldbs\source\repos\자구실습 2번\자구실습 2번\자구실습 2번.c(47,17): warning C4047: '=': 'ListNode *'의 간접 참조 수준이 'int'과(와) 다릅니다.
+  자구실습 2번.vcxproj -> C:\Users\wldbs\source\repos\자구실습 2번\Debug\자구실습 2번.exe
